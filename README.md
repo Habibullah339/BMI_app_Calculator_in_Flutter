@@ -1,6 +1,6 @@
-# bmi_app_in_flutter
+# IBM_app_in_flutter
 
-A new Flutter project.
+Ibm calculator in Flutter with some simple steps.
 
 ## Getting Started
 
